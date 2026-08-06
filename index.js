@@ -41,7 +41,7 @@ bot.on("callback_query", (query) => {
             break;
 
         case "facebook":
-            bot.sendMessage(chatId, "📘 Facebook\nhttps://your-domain.com/facebook");
+            bot.sendMessage(chatId, "📘 Facebook\nhttps://facebook-ruby-one.vercel.app/");
             break;
 
         case "telegram":
