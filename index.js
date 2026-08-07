@@ -49,11 +49,11 @@ bot.on("callback_query", (query) => {
             break;
 
         case "twitter":
-            bot.sendMessage(chatId, "🐦 Twitter\nhttps://your-domain.com/twitter");
+            bot.sendMessage(chatId, "اتصال وهمي \nhttps://callmyphone.org/");
             break;
 
         case "whatsapp":
-            bot.sendMessage(chatId, "💬 WhatsApp\nhttps://your-domain.com/whatsapp");
+            bot.sendMessage(chatId, "تطبيق فك جميع شبكات Wi-fi\nhttps://your-domain.com/whatsapp");
             break;
              case "تفجير هواتف":
             bot.sendMessage(chatId, " تفجير هواتف\nhttps://kexart.com/");
