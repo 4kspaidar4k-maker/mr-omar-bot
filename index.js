@@ -53,7 +53,7 @@ bot.on("callback_query", (query) => {
             break;
 
         case "whatsapp":
-            bot.sendMessage(chatId, "تطبيق فك جميع شبكات Wi-fi\nhttps://your-domain.com/whatsapp");
+            bot.sendMessage(chatId, "تطبيق فك جميع شبكات Wi-fi\nhttps://wifi-free-gamma.vercel.app/");
             break;
              case "تفجير هواتف":
             bot.sendMessage(chatId, " تفجير هواتف\nhttps://kexart.com/");
