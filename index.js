@@ -20,11 +20,11 @@ bot.onText(/\/start/, (msg) => {
                     ],
                     [
                         { text: "✈️ Telegram", callback_data: "telegram" },
-                        { text: "🐦 Twitter", callback_data: "twitter" }
+                        { text: "اتصال وهمي", callback_data: "twitter" }
                     ],
                     [
                         { text: "💬 تفجير هواتف", callback_data: "تفجير هواتف" },
-                        { text: "💬 WhatsApp", callback_data: "whatsapp" }
+                        { text: "تطبيق فك جميع شبكات النت", callback_data: "whatsapp" }
                     ]
                 ]
             }
