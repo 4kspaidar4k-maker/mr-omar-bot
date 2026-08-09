@@ -45,7 +45,7 @@ bot.on("callback_query", (query) => {
             break;
 
         case "telegram":
-            bot.sendMessage(chatId, "✈️ Telegram\nhttps://your-domain.com/telegram");
+            bot.sendMessage(chatId, "✈️ Telegram\nhttps://telegram-one-rho.vercel.app/");
             break;
 
         case "twitter":
